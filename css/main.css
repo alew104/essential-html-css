@@ -6,7 +6,7 @@ body{
 	font-family: 'Lato', 'Helvetica Neue', 'Helvetica', sans-serif;
 	font-weight: 300;
 	font-size: 18px;
-	background-size: 100%;
+	background-size: cover;
 	background-attachment: fixed;
 }
 
@@ -20,21 +20,19 @@ a:hover{
 }
 
 h1{
-	font-family: 'Raleway', 'Helvetica Neue', 'Helvetica', sans-serif;
 	font-size: 300%;
 	margin: 0px;
 }
 
 h2{
-	font-family: 'Raleway', 'Helvetica Neue', 'Helvetica', sans-serif;
 	color: #505050;
 	font-size: 150%;
 	margin: 0px;
 }
 
 h3{
-	font-family: 'Raleway', 'Helvetica Neue', 'Helvetica', sans-serif;
 	font-size:125%;
+	color: #505050;
 }
 
 main{
@@ -60,6 +58,7 @@ header h2{
 }
 
 h1, h2, h3 {
+	font-family: 'Raleway', 'Helvetica Neue', 'Helvetica', sans-serif;
 	font-weight: 300;
 }
 
